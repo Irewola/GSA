@@ -1,0 +1,130 @@
+parameter:
+folder_name = solar_fits_files\\2021_06_05
+file_name = image.fits
+boundaries_file_name = boundaries.txt
+kernel_folder_name = kernels
+kernel_file_name = 14_kernel.txt
+model_filename = svc_model.joblib
+model_filename2 = direct_clf2.joblib
+initial_brightness = 80
+num_threads = 30
+chunksize = 30
+use_second_model = False
+ 
+parameter:
+folder_name = solar_fits_files\\2021_06_24
+file_name = image.fits
+boundaries_file_name = boundaries.txt
+kernel_folder_name = kernels
+kernel_file_name = 14_kernel.txt
+model_filename = svc_model.joblib
+model_filename2 = direct_clf2.joblib
+initial_brightness = 80
+num_threads = 30
+chunksize = 30
+use_second_model = False
+ 
+parameter:
+folder_name = solar_fits_files\\2021_07_09
+file_name = image.fits
+boundaries_file_name = boundaries.txt
+kernel_folder_name = kernels
+kernel_file_name = 14_kernel.txt
+model_filename = svc_model.joblib
+model_filename2 = direct_clf2.joblib
+initial_brightness = 80
+num_threads = 30
+chunksize = 30
+use_second_model = False
+ 
+parameter:
+folder_name = solar_fits_files\\2021_09_05
+file_name = image.fits
+boundaries_file_name = boundaries.txt
+kernel_folder_name = kernels
+kernel_file_name = 14_kernel.txt
+model_filename = svc_model.joblib
+model_filename2 = direct_clf2.joblib
+initial_brightness = 80
+num_threads = 30
+chunksize = 30
+use_second_model = False
+ 
+parameter:
+folder_name = solar_fits_files\\2021_12_19
+file_name = image.fits
+boundaries_file_name = boundaries.txt
+kernel_folder_name = kernels
+kernel_file_name = 14_kernel.txt
+model_filename = svc_model.joblib
+model_filename2 = direct_clf2.joblib
+initial_brightness = 80
+num_threads = 30
+chunksize = 30
+use_second_model = False
+ 
+parameter:
+folder_name = solar_fits_files\\2021_09_24
+file_name = image.fits
+boundaries_file_name = boundaries.txt
+kernel_folder_name = kernels
+kernel_file_name = 14_kernel.txt
+model_filename = svc_model.joblib
+model_filename2 = direct_clf2.joblib
+initial_brightness = 80
+num_threads = 30
+chunksize = 30
+use_second_model = False
+ 
+parameter:
+folder_name = solar_fits_files\\2024_05_13
+file_name = image.fits
+boundaries_file_name = boundaries.txt
+kernel_folder_name = kernels
+kernel_file_name = 14_kernel.txt
+model_filename = svc_model.joblib
+model_filename2 = direct_clf2.joblib
+initial_brightness = 80
+num_threads = 30
+chunksize = 30
+use_second_model = False
+ 
+parameter:
+folder_name = solar_fits_files\\2024_06_08
+file_name = image.fits
+boundaries_file_name = boundaries.txt
+kernel_folder_name = kernels
+kernel_file_name = 14_kernel.txt
+model_filename = svc_model.joblib
+model_filename2 = direct_clf2.joblib
+initial_brightness = 80
+num_threads = 30
+chunksize = 30
+use_second_model = False
+ 
+parameter:
+folder_name = solar_fits_files\\2024_05_06
+file_name = image.fits
+boundaries_file_name = boundaries.txt
+kernel_folder_name = kernels
+kernel_file_name = 14_kernel.txt
+model_filename = svc_model.joblib
+model_filename2 = direct_clf2.joblib
+initial_brightness = 80
+num_threads = 30
+chunksize = 30
+use_second_model = False
+ 
+parameter:
+folder_name = solar_fits_files\\2024_05_09
+file_name = image.fits
+boundaries_file_name = boundaries.txt
+kernel_folder_name = kernels
+kernel_file_name = 14_kernel.txt
+model_filename = svc_model.joblib
+model_filename2 = direct_clf2.joblib
+initial_brightness = 80
+num_threads = 30
+chunksize = 30
+use_second_model = False
+ 

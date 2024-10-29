@@ -1,0 +1,11 @@
+folder_name = solar_fits_files\\2021_06_05
+file_name = image.fits
+boundaries_file_name = boundaries.txt
+kernel_folder_name = kernels
+kernel_file_name = 14_kernel.txt
+model_filename = svc_model.joblib
+model_filename2 = direct_clf2.joblib
+initial_brightness = 80
+num_threads = 2
+chunksize = 30
+use_second_model = True

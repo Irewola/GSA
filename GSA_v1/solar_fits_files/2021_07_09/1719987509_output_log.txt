@@ -1,0 +1,51 @@
+///////////////////START///////////////////
+USE SECOND MODEL
+Model filename: direct_clf2.joblib
+unix_time=1719987509
+Folder name: solar_fits_files\\2021_07_09
+File name: image.fits
+Boundaries file name: boundaries.txt
+Kernel folder name: kernels
+Kernel file name: 14_kernel.txt
+Initial brightness: 80
+Number of threads: 2
+Chunksize: 30
+solar_radius=1571.38391
+center_x=2042.18079
+center_y=2048.06909
+Matrix dimensions: (4096, 4096)
+Minimum value in the matrix: -8
+Maximum value in the matrix: 7640
+total_points = 121219
+Time to calculate total points: 0.33 seconds
+Time to generate tasks: 0.36 seconds
+Time to process tasks in parallel: 63.53 seconds
+Time to update mask with predictions: 0.02 seconds
+Time to count classes in the mask: 0.03 seconds
+Class_nAR_type_1 count: 104161
+Class_nAR_type_2 count: 15862
+Class_AR count: 1196
+Generalized Solar Activity for class_AR: (class_AR) * 100 / (class_nAR_type_1+class_nAR_type_2+class_AR)
+Generalized Solar Activity for class_AR: 0.9866440079525487
+Generalized Solar Activity for class_nAR_type_2: (class_nAR_type_2) * 100 / (class_nAR_type_1+class_nAR_type_2+class_AR)
+Generalized Solar Activity for class_nAR_type_2: 13.085407403129873
+Generalized Solar Activity for class_nAR_type_2+class_AR: (class_nAR_type_2+class_AR) * 100 / (class_nAR_type_1+class_nAR_type_2+class_AR)
+Generalized Solar Activity for class_nAR_type_2+class_AR: 14.072051411082422
+Total execution time: 64.27 seconds
+boundaries_file_path=solar_fits_files\\2021_07_09\boundaries.txt
+Execution time for each step:
+Check folder exists: 0.00 seconds
+Check file exists: 0.00 seconds
+Check kernel file exists: 0.00 seconds
+Read matrix from file: 0.19 seconds
+Find min and max values: 0.00 seconds
+Normalize matrix: 0.06 seconds
+Initialize mask: 0.00 seconds
+Read kernel data: 0.00 seconds
+Generate time series: 64.28 seconds
+Generate time series per 1 thread: 128.56 seconds
+Draw boundaries: 0.00 seconds
+Expand mask: 6.45 seconds
+Apply  boundaries mask to image: 0.27 seconds
+Apply mask to image: 0.41 seconds
+Total execution time: 72.56 seconds

@@ -1,0 +1,46 @@
+///////////////////START///////////////////
+USE FIRST MODEL
+Model filename: svc_model.joblib
+unix_time=1719989143
+Folder name: solar_fits_files\\2021_09_05
+File name: image.fits
+Boundaries file name: boundaries.txt
+Kernel folder name: kernels
+Kernel file name: 14_kernel.txt
+Initial brightness: 80
+Number of threads: 30
+Chunksize: 30
+solar_radius=1577.73132
+center_x=2041.97839
+center_y=2048.18091
+Matrix dimensions: (4096, 4096)
+Minimum value in the matrix: -8
+Maximum value in the matrix: 5792
+total_points = 122198
+Features calculated
+Class_nAR_type_1 count: 99586
+Class_nAR_type_2 count: 21227
+Class_AR count: 1385
+Generalized Solar Activity for class_AR: (class_AR) * 100 / (class_nAR_type_1+class_nAR_type_2+class_AR)
+Generalized Solar Activity for class_AR: 1.1334064387305849
+Generalized Solar Activity for class_nAR_type_2: (class_nAR_type_2) * 100 / (class_nAR_type_1+class_nAR_type_2+class_AR)
+Generalized Solar Activity for class_nAR_type_2: 17.370988068544495
+Generalized Solar Activity for class_nAR_type_2+class_AR: (class_nAR_type_2+class_AR) * 100 / (class_nAR_type_1+class_nAR_type_2+class_AR)
+Generalized Solar Activity for class_nAR_type_2+class_AR: 18.504394507275077
+boundaries_file_path=solar_fits_files\\2021_09_05\boundaries.txt
+Execution time for each step:
+Check folder exists: 0.00 seconds
+Check file exists: 0.00 seconds
+Check kernel file exists: 0.00 seconds
+Read matrix from file: 0.19 seconds
+Find min and max values: 0.00 seconds
+Normalize matrix: 0.06 seconds
+Initialize mask: 0.00 seconds
+Read kernel data: 0.00 seconds
+Generate time series: 333.42 seconds
+Generate time series per 1 thread: 10002.65 seconds
+Draw boundaries: 0.00 seconds
+Expand mask: 6.33 seconds
+Apply  boundaries mask to image: 0.25 seconds
+Apply mask to image: 0.34 seconds
+Total execution time: 341.53 seconds
